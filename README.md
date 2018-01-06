@@ -6,5 +6,5 @@ Matlab and C++ implementation of "Differential Evolution Algorithm"
 2. run DE4ParamTuningCallMatlab.m
 
 # Make your own trainer
-1. encapsulate your loss in the "LossFunction.m"
+1. encapsulate your loss code in the "LossFunction.m"
 2. adapt your own params in the "DE4ParamTuningCallMatlab.m"
